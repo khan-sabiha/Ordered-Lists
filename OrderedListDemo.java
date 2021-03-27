@@ -1,5 +1,4 @@
 /**
- * Sabiha Khan
  * Display and merge two ordered lists using the two-finger walking algorithm.
  */
 import java.io.File;
